@@ -32,7 +32,7 @@
 
 >- 1. Clone este repositório em sua máquina local.
 >- 2. Abra o arquivo `index.html` em um navegador da web.
->- 3. A tela inicial exige que seja feita um cadastro de despesa, e porteriormente uma consulta por filtro aplicado.
+>- 3. Escolha a dificuldade do jogo e clique em iniciar.
 
 
 ## Contribuição
